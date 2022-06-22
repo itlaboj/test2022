@@ -10,6 +10,8 @@ public class Sample01 {
 		System.out.println(23);
 		System.out.println(34);
 		System.out.println(67);
+		System.out.println(67);
+		System.out.println(67);
 	}
 
 }
