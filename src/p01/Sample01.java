@@ -12,6 +12,7 @@ public class Sample01 {
 		System.out.println(67);
 		System.out.println(67);
 		System.out.println(67);
+		System.out.println("aaaa");
 	}
 
 }
